@@ -1,0 +1,1 @@
+DOCKER_BUILDKIT=1 docker build -t chilloutai/stable-diffusion:1.0.0 .
