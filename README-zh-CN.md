@@ -37,8 +37,11 @@ Docker 镜像构建过程在仓库中。
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/95554104/221343665-39ff47e6-6e0b-478c-96ab-eeaad310f6aa.png">
 
+### 5. 需要 [Billling](https://www.runpod.io/console/user/billing) 中去冲一点钱
 
-### 5. 测试一下是否正常使用
+个人使用的话，10刀就可以用很久了
+
+### 6. 测试一下是否正常使用
 
 把 API key 和 name 放到 runpod_api_test.py,然后运行 `python runpod_api_test.py`
 
