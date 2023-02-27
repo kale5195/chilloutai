@@ -5,6 +5,8 @@
 </p>
 
 
+希望这个过程可以帮助你！如果想支持一下，可以使用 [RunPod Referral link](https://runpod.io?ref=78g53ap2) 这个链接注册
+
 ##  如何在 RunPod Serverless 环境中运行 ChilloutMix 和 LORA
 
 
@@ -46,9 +48,6 @@ Docker 镜像构建过程在仓库中。
 把 API key 和 name 放到 runpod_api_test.py,然后运行 `python runpod_api_test.py`
 
 30 秒到 1 分钟后，应该可以在目录下看到图片。
-
-
-希望这个过程可以帮助你！如果想支持我以下，可以使用 [RunPod Referral link](https://runpod.io?ref=78g53ap2) 这个链接注册
 
 
 另外我还根据这个 api 创建了一个小网站，可以试一下: https://chilloutai.com/
