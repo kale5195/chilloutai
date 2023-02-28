@@ -1,1 +1,0 @@
-DOCKER_BUILDKIT=1 docker build -t chilloutai/auto-api:1.0.0 .
