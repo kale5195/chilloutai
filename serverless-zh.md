@@ -1,3 +1,8 @@
+
+希望这个教程可以帮助你！如果想支持一下，可以使用 RunPod Referral link 这个链接注册
+
+
+
 ##  如何在 RunPod Serverless 环境中运行 ChilloutMix 和 LORA
 
 
