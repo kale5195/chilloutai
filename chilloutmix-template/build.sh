@@ -1,0 +1,1 @@
+DOCKER_BUILDKIT=1 docker build -t chilloutai/chilloutmix-template:1.2.0 .
