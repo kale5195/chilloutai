@@ -4,6 +4,11 @@
   简体中文
 </p>
 
+2023-04-04:
+
+你可以加入 [slack channel](https://dub.sh/bot007) 体验图片生成 + ChatGPT Bot
+
+---    
 
 希望这个教程可以帮助你！如果想支持一下，可以使用 [RunPod Referral link](https://runpod.io?ref=78g53ap2) 这个链接注册
 
