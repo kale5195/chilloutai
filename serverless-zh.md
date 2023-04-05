@@ -17,7 +17,7 @@
 
 ### 2. 前往 [Serverless My Template](https://www.runpod.io/console/serverless/user/templates), 点击 New Template
 
-可以设置一个 tempalte name, 但 container name 必须是 **chilloutai/auto-api:1.0.0**
+可以设置一个 tempalte name, 但 container name 必须是 **chilloutai/auto-api:1.2.0**
 
 Docker 镜像构建过程在仓库中。
 
