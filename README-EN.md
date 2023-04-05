@@ -17,7 +17,7 @@ I tried [Replicate](https://replicate.com/), but failed. Maybe will try it later
 
 ### 2. Go to [Serverless My Template](https://www.runpod.io/console/serverless/user/templates), Click New Template
 
-You can set your preferred tempalte name, but container name should be **chilloutai/auto-api:1.0.0**
+You can set your preferred tempalte name, but container name should be **chilloutai/auto-api:1.2.0**
 
 The docker image building process is in the repo.
 
