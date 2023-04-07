@@ -18,6 +18,9 @@ def generation():
         "input": {"prompt": prompt, "steps": 28, "negative_prompt": negative_prompt, "width": 512, "height": 768, "sampler_index": "DPM++ SDE Karras",
                   "batch_size": 1, "seed": -1},
     })
+    if res.status_code != 200:
+        print(f"request failed: url: {res.url}, status code: {res.status_code}, text: {res.text}")
+        return
 
     task_id = res.json()['id']
 
@@ -26,6 +29,9 @@ def generation():
             'Content-Type': 'application/json',
             "Authorization": f"Bearer {runpod_key}"
         })
+        if res.status_code != 200:
+            print(f"request failed: url: {res.url}, status code: {res.status_code}, text: {res.text}")
+            break
 
         status = res.json()['status']
         print(status)
